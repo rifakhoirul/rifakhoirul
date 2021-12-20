@@ -1,5 +1,5 @@
 - 👋 Hi, I’m rifakhoirul or riko
-- 🌱 I’m currently learning html, css, javascript, nodejs, expressjs, ejs, bootstrap, jquery, sqlite, postgreSQL, sequelize, mongodb, mongoose, restful-API, Vue.js, React.js, Redux
+- 🌱 I’m currently learning HTML, CSS, Javascript, Node.js, Express.js, EJS, Bootstrap, JQuery, SQLite, PostgreSQL, Sequelize, Mongodb, Mongoose, Restful-API, Vue.js, React.js, Socket.io, Redux
 
 <!---
 rifakhoirul/rifakhoirul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
