@@ -1,5 +1,5 @@
 - 👋 Hi, I’m rifakhoirul or riko
-- 🌱 I’m currently learning HTML, CSS, Javascript, Node.js, Express.js, EJS, Bootstrap, JQuery, SQLite, PostgreSQL, Sequelize, Mongodb, Mongoose, Restful-API, TDD, Mocha/Chai testing, Vue.js, Vue CLI, Vuex, D3.js, GoogleMaps API, React.js, React Hooks, Socket.IO, Redux, React-Redux, Redux-Thunk, Firebase, Material UI, React Native, React Native SVG
+- 🌱 I’m currently learning HTML, CSS, Javascript, Node.js, Express.js, EJS, Bootstrap, JQuery, SQLite, PostgreSQL, Sequelize, Mongodb, Mongoose, Restful-API, TDD, Mocha/Chai testing, Vue.js, Vue CLI, Vuex, D3.js, GoogleMaps API, React.js, React Hooks, Socket.IO, Redux, React-Redux, Redux-Thunk, GraphQL Apollo, Firebase, Material UI, React Native, React Native SVG
 
 <!---
 rifakhoirul/rifakhoirul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
